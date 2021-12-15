@@ -1,0 +1,1 @@
+create table bmi (bmi numeric(2, 1), category text, risk text)
